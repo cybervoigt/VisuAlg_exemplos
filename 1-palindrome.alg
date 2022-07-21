@@ -12,6 +12,12 @@ var
 inicio
 // Seção de Comandos 
 
+// Sugestões:
+// - remover os espaços
+// - substituir o PARA por ENQUANTO
+//  (pode reduzir as interações olhando a var resultado)
+
+
    escreva("digite uma palavra: ")
    leia(palavra)
    
