@@ -14,8 +14,7 @@ inicio
 
 // Sugestões:
 // - remover os espaços
-// - substituir o PARA por ENQUANTO
-//  (pode reduzir as interações olhando a var resultado)
+// - ignorar minusculos e maiusculos ?
 
 
    escreva("digite uma palavra: ")
@@ -50,6 +49,7 @@ inicio
 
    // outra forma de fazer o laço de repetição, usando ENQUANTO...
    escreval("refazendo novamente a comparação com ENQUANTO...")
+   escreval("pode reduzir as interações olhando a var resultado")
    i := 1
    resultado := VERDADEIRO
    enquanto (i <= metade) e (resultado) faca
